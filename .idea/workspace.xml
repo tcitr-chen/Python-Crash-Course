@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5186094e-d7db-4bb9-8e7e-3cb85575e208" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/ch02/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Crash-Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Crash-Course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ch02/hello_world.py" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python 控制台" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -115,7 +116,11 @@
       <workItem from="1609514092446" duration="949000" />
       <workItem from="1609515197040" duration="188000" />
       <workItem from="1609515500174" duration="1155000" />
-      <workItem from="1609599092856" duration="370000" />
+      <workItem from="1609599092856" duration="1720000" />
+      <workItem from="1609765491147" duration="47000" />
+      <workItem from="1609765552175" duration="242000" />
+      <workItem from="1609765808390" duration="99000" />
+      <workItem from="1609765924543" duration="62000" />
     </task>
     <servers />
   </component>
